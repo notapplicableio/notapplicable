@@ -1,0 +1,17 @@
+title: N/A
+author: Not Applicable
+email: critter.feature_0y@icloud.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Product development for Apple Platforms
+
+# social links
+twitter_username: notapplicableco # DO NOT include the @ character, or else the build will fail!
+
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima
+
+header_pages:
+  - about.md
+  - range.md

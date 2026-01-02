@@ -1,0 +1,4 @@
+_site/
+.jekyll-cache/
+_posts/
+.DS_Store
