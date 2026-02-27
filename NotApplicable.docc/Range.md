@@ -1,8 +1,4 @@
----
-layout: page
-title: Range
-permalink: /range/
----
+# Range
 
 Range is a naval combat game with with tactical depth and risk-reward decision-making.
 
@@ -12,9 +8,9 @@ Forget binary hit-or-miss gameplay. Range introduces a variable blast radius sys
 
 ## Three Ways to Strike
 
-- Small Blast: A surgical strike dealing maximum damage to a single tile - powerful enough to obliterate a ship segment in one shot, but you need pinpoint accuracy
-- Medium Blast: Covers 5 tiles with medium damage each - the balanced approach for confirmed targets
-- Large Blast: Blankets 13 tiles with light damage - perfect for reconnaissance
+* Small Blast: A surgical strike dealing maximum damage to a single tile - powerful enough to obliterate a ship segment in one shot, but you need pinpoint accuracy
+* Medium Blast: Covers 5 tiles with medium damage each - the balanced approach for confirmed targets
+* Large Blast: Blankets 13 tiles with light damage - perfect for reconnaissance
 
 ## Strategic Depth
 
